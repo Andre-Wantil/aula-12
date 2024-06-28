@@ -1,0 +1,26 @@
+.header {
+    height: 52px;
+    grid-area: header;
+}
+
+.menu-img {
+    height: 30px;
+    width: 37px;
+    margin-top: 2px;
+}
+
+.button-menu {
+    width: 41px;
+    height: 41px;
+    margin-left: 18px;
+    margin-top: 10px;
+    border-style: none;
+    border-radius: 50%;
+    background-color: #fff;
+    position: fixed;
+}
+
+.logo-img {
+    height: fit-content;
+    margin-left: 80px;
+}
