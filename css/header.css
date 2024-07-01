@@ -13,7 +13,7 @@
     width: 41px;
     height: 41px;
     margin-left: 18px;
-    margin-top: 10px;
+    margin-top: 0.6rem;
     border-style: none;
     border-radius: 50%;
     background-color: #fff;
@@ -23,4 +23,107 @@
 .logo-img {
     height: fit-content;
     margin-left: 80px;
+}
+
+.search-bar {
+    padding-left: 15px;
+    font-size: medium;
+    position: fixed;
+    margin-left: 26rem;
+    margin-top: 12px;
+    width: 540px;
+    height: 43px;
+    border-width: 1px;
+    border-radius: 50px;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.button-search {
+    background-color: #f0f0f0;
+    position: fixed;
+    margin-left: 59.5rem;
+    margin-top: 12px;
+    width: 62px;
+    height: 43px;
+    border-bottom-color: #CFCFCF;
+    border-width: 1px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.lupa-img {
+    height: 25px;
+}
+
+.button-mic {
+    width: 41px;
+    height: 41px;
+    margin-left: 64.5rem;
+    margin-top: 0.8rem;
+    border-style: none;
+    border-radius: 50%;
+    position: fixed;
+}
+
+.mic-img {
+    height: 19px;
+    width: 25px;
+    margin-top: 2px;
+}
+
+.button-camera {
+    width: 41px;
+    height: 41px;
+    margin-left: 92.6rem;
+    margin-top: 0.6rem;
+    border-style: none;
+    border-radius: 50%;
+    background-color: #fff;
+    position: fixed;
+}
+
+.camera-img {
+    height: 30px;
+    width: 37px;
+    margin-top: 2px;
+}
+
+.button-notify {
+    width: 41px;
+    height: 41px;
+    margin-left: 96rem;
+    margin-top: 0.6rem;
+    border-style: none;
+    border-radius: 50%;
+    background-color: #fff;
+    position: fixed;
+}
+
+.bell-img {
+    height: 30px;
+    width: 37px;
+    margin-top: 2px;
+}
+
+.button-profile {
+    width: 41px;
+    height: 41px;
+    margin-left: 99.5rem;
+    margin-top: 0.6rem;
+    border-style: none;
+    border-radius: 50%;
+    background-color: #fff;
+    position: fixed;
+}
+
+.profile-img {
+    height: 37px;
+    width: 37px;
+    margin-top: 2px;
+    border-radius: 50%;
+}
+
+.button-profile:hover {
+    background-color: #ffffff;
 }
